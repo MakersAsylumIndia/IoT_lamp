@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "IoT_symbols")(type "KiCad")(uri "${KIPRJMOD}/IoT_symbols.kicad_sym")(options "")(descr ""))
+  (lib (name "esp32_30pin")(type "KiCad")(uri "/home/anool/projects-git/MAKERS_ASYLUM/IoT_lamp/pcb/resources/esp32_30pin.kicad_sym")(options "")(descr ""))
+  (lib (name "kicad-displays")(type "KiCad")(uri "/home/anool/projects-git/MAKERS_ASYLUM/IoT_lamp/pcb/resources/kicad-displays-main/kicad-displays.kicad_sym")(options "")(descr ""))
+)
